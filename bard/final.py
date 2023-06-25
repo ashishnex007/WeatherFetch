@@ -1,4 +1,4 @@
-//using args
+#using args
 import argparse
 import requests
 from bardapi import Bard
