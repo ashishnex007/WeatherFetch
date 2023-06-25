@@ -34,13 +34,13 @@ python final.py "<city_name>"
 ## Working
 
 ### Fetching Hyderabad weather
-![Example 1](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/ex1.png)
+![Example 1](https://github.com/ashishnex007/WeatherFetch/blob/main/gpt/images/ex1.png)
 
 ### Fetching Mumbai weather
-![Example 2](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/ex2.png)
+![Example 2](https://github.com/ashishnex007/WeatherFetch/blob/main/gpt/images/ex2.png)
 > Note: Replace <city_name> with the input
 ## WorkFlow:
-![work flow](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/workflow.png)
+![work flow](https://github.com/ashishnex007/WeatherFetch/blob/main/gpt/images/workflow.png)
 - Parses the command-line argument for the city name provided by the user.
 - Sets the [OpenAI API](https://platform.openai.com/) key and defines the initial message for the GPT-3.5 Turbo model.
 - Sets the weather API key of open weather website and constructs the URL to fetch weather data for the specified city.
@@ -56,15 +56,15 @@ python final.py "<city_name>"
 
 #### API Request URL Building:
 Copilot can provide suggestions in constructing the API request URL, ensuring the correct formatting.
-![suggestions](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/2.png)
+![suggestions](https://github.com/ashishnex007/WeatherFetch/blob/main/gpt/images/2.png)
 # 
 #### Error Handling and Exception Handling:
 Copilot can provide suggestions for error handling and exception handling in the get_weather_data function, helping to handle different errors.
-![data parsing](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/1.png)
+![data parsing](https://github.com/ashishnex007/WeatherFetch/blob/main/gpt/images/1.png)
 # 
 #### Weather Information Formatting:
 Copilot can suggest improvements in formatting and displaying the weather information and suggest the code.
-![code suggest](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/3.png)
+![code suggest](https://github.com/ashishnex007/WeatherFetch/blob/main/gpt/images/3.png)
 #
 #### Variable Naming and Code Organization:
 Copilot can provide suggestions for variable naming and code organization, helping to improve the readability and maintainability of the codebase.
